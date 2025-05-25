@@ -1,1 +1,1 @@
-Cukup masukan ID Tele kalian.
+Just input your Tele ID line by line.
